@@ -2,7 +2,7 @@
   "main": {
     "name":"Richard Machado",
     "occupation":"Full StackWeb Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I am a master of React, React Native and Node",
     "image":"dre.gif",
     "bio":"Southern California Native",
     "contactmessage":"Like what you see, get in contact with me",
@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/mmachadorichard",
+        "url": "http://facebook.com/mmachadorichard", 
         "className":"fa fa-facebook"
       },
       {
@@ -50,13 +50,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are some of my skills and level of mastery",
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Lambda School, Inc",
         "degree":"Full Stack Web Development",
         "graduated":"Current",
-        "description":"Full Stack Web Development concentrating on Node.JS and React.JS"
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
@@ -64,7 +64,7 @@
         "company":"Lambda School, Inc",
         "title":"Full Time Team Lead - Labs",
         "years":"April 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Labs Team Lead for Key Conservation. Managed 4-6 students in the Labs section of Lambda"
       },
       {
         "company":"California Regional Multiple Listing Service",
