@@ -15,7 +15,7 @@
       "zip": "92101"
     },
     "website": "http://www.richard-machado.com",
-    "resumedownload":"https://drive.google.com/file/d/1aucYDWPiTrAKAGsEf3ZjDkeu0uOp6sS9/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1HW82sRno-uszGmFafc8IbRuP5TngjBkS/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -56,14 +56,20 @@
         "school":"Lambda School, Inc",
         "degree":"Full Stack Web Development",
         "graduated":"Current",
-        "description":"Learned React , Redux , Context API, Node JS for Backend"
+        "description":"Became an expert in  React , Redux , Context API, Node JS for Backend. Currently learning Python and Computer Science theory."
       }
     ],
     "work":[
       {
         "company":"Lambda School, Inc",
+        "title":"Part Time Section Lead - Web Developement ",
+        "years":"July 2020 - Present",
+        "description":"Managing a Team of 12 Team Leads who are managing 6-10 students each through their journey in learning web developement. Approving payroll for Team Leads."
+      },
+      {
+        "company":"Lambda School, Inc",
         "title":"Full Time Team Lead - Labs",
-        "years":"April 2020 - Present",
+        "years":"April 2020 - July 2020",
         "description":"Labs Team Lead for Key Conservation. Managing 5 students in the Labs section  "
       },
       {
@@ -86,10 +92,8 @@
       }
     ],
     "skills":[
-      {
-        "name":"Git",
-        "level":"100%"
-      },
+
+
       {
         "name":"ReactJs",
         "level":"95%"
@@ -109,6 +113,14 @@
       {
         "name":"Postgres",
         "level":"99%"
+      },
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
       }
     ]
   },
