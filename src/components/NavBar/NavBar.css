@@ -1,0 +1,24 @@
+.large_box {
+    background-color: grey;
+    height: 6rem;
+    padding-top: 2rem;
+    display:flex;
+    justify-content: space-around;
+    width:100%
+}
+
+.left_side {
+width:5rem;
+}
+
+.right_side {
+    display:flex;
+    justify-content: space-around;
+    width: 25rem;
+}
+
+.link {
+    font-size:3rem;
+    text-decoration:none;
+    color: aqua;
+}
