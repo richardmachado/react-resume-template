@@ -12,7 +12,7 @@ export default class About extends Component {
             <div className="school_info">
             <p className="school_name">Lambda School Inc</p>
             <p className="dates_of_attendance">Dates of Attendance: July 2019 - current</p>
-                <p className="lambda_info">Full Stack Web Development: Starting with HTML, CSS and then quickly diving into JavaScript and developing using React. Next, creating web servers using Node.js and PostgreSQL. Finally learning basic computer architecture with Python. Lambda school not only teaches the material, but also teaches you problem solve and learn any programming language.</p>
+                <p className="lambda_info">Full Stack Web Development: Starting with HTML, CSS and then quickly diving into JavaScript and developing using React. Next, creating web servers using Node.js and PostgreSQL. Finally learning basic computer architecture with Python. Lambda school not only teaches the material, but also teaches you to problem solve and learn any programming language.</p>
             </div>
             
             <div className="picture_container">

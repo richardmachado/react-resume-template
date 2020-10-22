@@ -1,0 +1,33 @@
+.container {
+    margin-left: 10rem;
+    background: #eff0e9;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+}
+
+.firstbox {
+    height: 30rem;
+    width:30rem;
+
+    background-image: url(./knowledge.jpg);
+    background-repeat: no-repeat;
+}
+
+.secondbox {
+    height: 35rem;
+    width:30rem;
+
+    background-image: url(./android.jpg);
+background-size: cover;
+}
+
+.thirdbox {
+    height: 30rem;
+    width:30rem;
+
+    background-image: url(./macintosh.jpg);
+    background-repeat: no-repeat;
+}

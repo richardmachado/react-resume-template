@@ -7,6 +7,7 @@ import { Route, Switch } from 'react-router-dom';
 
 import Home from './components/Home/Home'
 import About from './components/About/About'
+import Projects from './components/Projects/Projects'
 
 function App() {
   return (
@@ -17,11 +18,14 @@ function App() {
 
       <Switch>
   <Route exact path="/">
-        <Home />
+    <Home />
+  </Route>
+  <Route exact path="/about">
+    <About />
         </Route>
-        <Route exact path="/about">
-        <About />
-   </Route>
+        <Route exact path="/projects">
+    <Projects />
+  </Route>
 
  </Switch>
     </div>
