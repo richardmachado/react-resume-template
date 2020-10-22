@@ -1,0 +1,55 @@
+
+.container {
+    margin-left: 10rem;
+}
+
+.school_container {
+    display:flex;
+}
+
+.dates_of_attendance {
+    width:50%;
+    margin-top: 22px;
+    margin-bottom: 30px;
+    font-family: 'Suisseintl webs', Arial, sans-serif;
+    color: #1b212c;
+    font-size:35px;
+    line-height: 48px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.3px;
+    text-decoration: none;
+}
+.school_name {
+    width:50%;
+    margin-top: 22px;
+    margin-bottom: 30px;
+    font-family: 'Suisseintl webs', Arial, sans-serif;
+    color: #1b212c;
+    font-size: 55px;
+    line-height: 48px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.3px;
+    text-decoration: none;
+}
+.lambda_info {
+    width:50%;
+    margin-top: 22px;
+    margin-bottom: 30px;
+    font-family: 'Suisseintl webs', Arial, sans-serif;
+    color: #1b212c;
+    font-size: 45px;
+    line-height: 43px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 0.1px;
+    text-decoration: none;
+}
+
+img {
+
+    height: 50rem;
+    width: 50rem;
+    margin-right: 100px;
+}
